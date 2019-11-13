@@ -4,7 +4,7 @@
 }
 
 .heroContainer {
-    margin-top: 150px;
+    margin-top: 100px;
     width: 100%;
 }
 
@@ -17,7 +17,7 @@
 .heroText {
    font-size: 1rem;
    width: 90%;
-   margin: 30px auto;
+   margin: 30px auto 20px auto;
    color: var(--veryDarkCyan);
 }
 
@@ -27,7 +27,7 @@
     width: 350px;
     top: 0;
     animation-name: float;
-    animation-duration: 5s;
+    animation-duration: 4s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
 }
