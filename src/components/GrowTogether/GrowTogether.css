@@ -53,11 +53,13 @@
       background: url('../../images/bg-section-top-desktop-1.svg');
       height: 150px;
       background-repeat: no-repeat;
+      width: 100%;
     }
     .bottomSvg{
       background: url('../../images/bg-section-bottom-desktop-1.svg');
       background-repeat: no-repeat;
       height: 100px;
+      width: 100%;
     }
     
     .growTogetherImg {
