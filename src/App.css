@@ -1,22 +1,19 @@
-.App {
-  text-align: center;
+body {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    font-family: var(--bodyFontFamily);
 }
 
-.App-logo {
-  height: 40vmin;
-}
+:root {
+    --pink: hsl(322, 100%, 66%);
+    --veryDarkCyan: hsl(192, 100%, 9%);
+    --veryPaleBlue: hsl(207, 100%, 98%);
+    --headingFontFamily: 'Poppins', sans-serif;
+    --bodyFontFamily: 'Open Sans', sans-serif;
+     --bolder: 700;
+     --bold: 600;
+     --light: 400;
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #09d3ac;
 }
