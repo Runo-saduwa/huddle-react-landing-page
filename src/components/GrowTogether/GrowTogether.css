@@ -54,12 +54,16 @@
       height: 150px;
       background-repeat: no-repeat;
       width: 100%;
+      background-size: cover;
+      background-size: center;
     }
     .bottomSvg{
       background: url('../../images/bg-section-bottom-desktop-1.svg');
       background-repeat: no-repeat;
       height: 100px;
       width: 100%;
+      background-size:cover;
+      background-position: center;
     }
     
     .growTogetherImg {
