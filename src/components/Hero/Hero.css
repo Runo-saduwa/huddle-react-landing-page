@@ -17,13 +17,13 @@
 .heroText {
    font-size: 1rem;
    width: 90%;
-   margin: 30px auto 20px auto;
+   margin: 30px auto 30px auto;
    color: var(--veryDarkCyan);
 }
 
 .heroImg{
     position: relative;
-    margin: 80px 0;
+    margin: 40px 0 80px 0;
     width: 350px;
     top: 0;
     animation-name: float;
